@@ -29,3 +29,10 @@ A simple and interactive **Stone Paper Scissors** web game built using **HTML, C
 ---
 
 ## Project Structure
+StonePaperScissors/
+- index.html
+- style.css
+- app.js
+- rock.png
+- paper.png
+- scissors.png
